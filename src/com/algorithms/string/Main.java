@@ -1,4 +1,4 @@
-package com.string.algorithms;
+package com.algorithms.string;
 
 public class Main {
     public static boolean isUppercase (String str) {
